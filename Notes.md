@@ -1,17 +1,26 @@
 ### TRANSLATE NOTES 2026
 #### SOME WORDS
+
 **both turbulent and inevitable** (*Vừa hỗn loạn vừa không thể tránh khỏi*)
+
 **"Technological adolescence"** (*"Thời kỳ thanh thiếu niên công nghệ" (ẩn dụ cho giai đoạn phát triển non nớt, bồng bột, đầy rủi ro nhưng cũng đầy tiềm năng của công nghệ).* )
+
 **"Without destroying yourself"** (*"Mà không hủy diệt/tự hủy chính mình" (ám chỉ hậu quả của việc phát triển công nghệ một cách thiếu kiểm soát).* )
+
 **Reinforcing loops** (*Vòng lặp gia cố*)
 **A system toward collapse** (*Một hệ thống hướng tới sự sụp đổ*)
 
 **The Cycle of Poverty is a destructive loop** (*Chu kỳ nghèo đói là một vòng lặp hủy diệt*)
+
 **External intervention** (*Can thiệp bên ngoài*)
+
 **Self-sustaining** (*Tự duy trì*)
 **Exponential growth** (*Tăng cấp số nhân*)
+
 **Exponential decline** (*Giảm cấp số nhân*)
+
 **Self-reinforcing success** (*Thành công tự cường*)
+
 **Self-sustaining collapse** (*Sự sụp đổ do tự duy trì*)
 
 **If pure specialization makes people stupid and dependent, what makes an individual smart and sovereign?** (*Nếu sự chuyên môn hóa thuần túy khiến con người trở nên ngu ngốc và phụ thuộc, thì điều gì khiến một cá nhân trở nên thông minh và tự chủ?*)
@@ -49,12 +58,17 @@
 **Judgment is the ability to see the long-term consequences of your actions.** (*Sự phán đoán là khả năng nhìn thấu những hệ quả dài hạn từ các hành động của bạn.*)
 **Just as you train your body at the gym, you can systematically train your mind to reach a higher baseline of peace and satisfaction.** (*Giống như bạn rèn luyện cơ thể tại phòng tập thể dục, bạn có thể rèn luyện tâm trí một cách có hệ thống để đạt được mức bình yên và hài lòng cao hơn.*)
 **Common View** (*Quan điểm phổ biến*)
+
  * **Lucky accident** (*Sự may mắn tình cờ*)
+
  * **External success** (*Thành công bên ngoài*)
+
  * **Fixed genetics** (*Di truyền cố định*)
 **Skill View** (*Góc nhìn kỹ năng*)
  * **Deliberate practice** (*Luyện tập có chủ đích*)
+
  * **Internal training** (*Rèn luyện nội tại*)
+
  * **Systematic improvement** (*Cải thiện có hệ thống*)
 **Mental Training** (*Rèn luyện tâm trí*)
 **Baseline Peace** (*Sự bình an nền tảng*)
