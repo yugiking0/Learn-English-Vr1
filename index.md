@@ -38,7 +38,7 @@ indulging
 cognitive
 your interest can very well benefit others in a selfless way - depending on your level of cognitive and moral development
 
- indulging in short-lived pleasures (cheap dopamine) is usually not your interest, but the interest of corporations that benefit from your mindlessness
+indulging in short-lived pleasures (cheap dopamine) is usually not your interest, but the interest of corporations that benefit from your mindlessness
 
 The truly selfish person, in Ayn Rand’s view, is a self-respecting, self-supporting human being who neither sacrifices others to himself nor sacrifices himself to others.
 
