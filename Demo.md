@@ -29,6 +29,7 @@
 **The truly selfish person, in Ayn Rand’s view, is a self-respecting, self-supporting human being who neither sacrifices others to himself nor sacrifices himself to others.** (*Người thực sự ích kỷ, theo quan điểm của Ayn Rand, là một con người biết tự trọng, tự lập, người không hy sinh người khác vì bản thân mình cũng như không hy sinh bản thân mình vì người khác.*)
 **This rejects both the predator and the doormat.** (*Điều này bác bỏ cả kẻ săn mồi lẫn kẻ nhu nhược.*)
 **Self-sufficiency is the refusal to outsource your judgment, learning, and agency.** (*Tự lập là việc từ chối sự hỗ trợ bên ngoài đối với khả năng phán đoán, học hỏi và quyền chủ động của bạn.*)
+
 #### THE MENTAL MODELS FOR LEADER
 **What if you could strip away every assumption and build your strategy from the ground up?** (*Điều gì sẽ xảy ra nếu bạn loại bỏ mọi giả định và xây dựng chiến lược từ ban đầu?*)
 **Judgment is the ability to see the long-term consequences of your actions.** (*Sự phán đoán là khả năng nhìn thấu những hệ quả dài hạn từ các hành động của bạn.*)
