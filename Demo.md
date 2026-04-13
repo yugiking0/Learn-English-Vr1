@@ -1,18 +1,30 @@
 ### TRANSLATE NOTES 2026
 
 #### SOME WORDS
+
 **both turbulent and inevitable** (*Vừa hỗn loạn vừa không thể tránh khỏi*)
+
 **"Technological adolescence"** (*"Thời kỳ thanh thiếu niên công nghệ" (ẩn dụ cho giai đoạn phát triển non nớt, bồng bột, đầy rủi ro nhưng cũng đầy tiềm năng của công nghệ).*)
+
 **"Without destroying yourself"** (*"Mà không hủy diệt/tự hủy chính mình" (ám chỉ hậu quả của việc phát triển công nghệ một cách thiếu kiểm soát).*)
+
 **Reinforcing loops** (*Vòng lặp gia cố*)
 **A system toward collapse** (*Một hệ thống hướng tới sự sụp đổ*)
+
 **The Cycle of Poverty is a destructive loop** (*Chu kỳ nghèo đói là một vòng lặp hủy diệt*)
+
 **External intervention** (*Can thiệp bên ngoài*)
+
 **Self-sustaining** (*Tự duy trì*)
+
 **Exponential growth** (*Tăng cấp số nhân*)
+
 **Exponential decline** (*Giảm cấp số nhân*)
+
 **Self-reinforcing success** (*Thành công tự cường*)
+
 **Self-sustaining collapse** (*Sự sụp đổ do tự duy trì*)
+
 **If pure specialization makes people stupid and dependent, what makes an individual smart and sovereign?** (*Nếu sự chuyên môn hóa thuần túy khiến con người trở nên ngu ngốc và phụ thuộc, thì điều gì làm cho một cá nhân trở nên thông minh và tự chủ?*)
 **In lies the distinction.** (*Sự khác biệt nằm ở đó.*)
 **Their sole purpose was to create factory workers who were punctual and obedient.** (*Mục đích duy nhất của họ là tạo ra những công nhân nhà máy đúng giờ và ngoan ngoãn.*)
@@ -31,6 +43,7 @@
 **What if you could strip away every assumption and build your strategy from the ground up?** (*Điều gì sẽ xảy ra nếu bạn loại bỏ mọi giả định và xây dựng chiến lược từ ban đầu?*)
 **Judgment is the ability to see the long-term consequences of your actions.** (*Sự phán đoán là khả năng nhìn thấu những hệ quả dài hạn từ các hành động của bạn.*)
 **Just as you train your body at the gym, you can systematically train your mind to reach a higher baseline of peace and satisfaction.** (*Giống như bạn rèn luyện cơ thể tại phòng tập thể dục, bạn có thể rèn luyện tâm trí một cách có hệ thống để đạt được mức bình yên và hài lòng cao hơn.*)
+
 **Common View** (*Quan điểm phổ biến*)
  * **Lucky accident** (*Sự may mắn tình cờ*)
  * **External success** (*Thành công bên ngoài*)
@@ -54,6 +67,8 @@
  * **2. Select models from different disciplines: Pick "tools" from outside your usual field. For example, use Inversion (Math), Social Proof (Psychology), and Technical Debt (Software).** (*2. Chọn các mô hình từ các chuyên ngành khác nhau: Chọn các "công cụ" từ bên ngoài lĩnh vực thông thường của bạn. Ví dụ: sử dụng Phép nghịch đảo (Toán học), Bằng chứng xã hội (Tâm lý học) và Nợ kỹ thuật (Phần mềm).*)
  * **3. Analyze through each lens: Look at the problem three different ways. How does it look if you prioritize psychology? How does it look through the lens of long-term maintenance?** (*3. Phân tích qua từng lăng kính: Nhìn vấn đề theo ba cách khác nhau. Nó trông như thế nào nếu bạn ưu tiên tâm lý học? Nó trông như thế nào qua lăng kính của việc bảo trì dài hạn?*)
  * **4. Synthesize a decision: Combine those insights. The "right" move is usually the one that makes sense across all these different models.** (*4. Tổng hợp một quyết định: Kết hợp những sự thấu hiểu đó. Nước đi "đúng đắn" thường là nước đi có ý nghĩa xuyên suốt tất cả các mô hình khác nhau này.*)
+
+
 **It’s about avoiding the "Man with a Hammer" syndrome—where every problem looks like a nail because you only have one tool.** (*Đó là về việc tránh hội chứng "Người đàn ông với một cái búa" — nơi mà mọi vấn đề đều trông giống như một cái đinh vì bạn chỉ có một công cụ.*)
 **Analogy: It’s like debugging a system crash by checking the logs (data), talking to the user (psychology), and reviewing the architecture (logic) all at once.** (*Phép loại suy: Nó giống như việc gỡ lỗi sự cố hệ thống bằng cách kiểm tra nhật ký (dữ liệu), nói chuyện với người dùng (tâm lý học) và xem xét kiến trúc (logic) cùng một lúc.*)
 **One powerful leadership model is Situational Leadership.** (*Một mô hình lãnh đạo mạnh mẽ là Lãnh đạo Tình huống.*)
