@@ -1,4 +1,32 @@
 ## NAVAL'S PRINCIPLES FOR DEVELOPERS
+## HOW TO GET RICH (WITHOUT GETTING LUCKY)
+*(Làm giàu như thế nào (mà không cần dựa vào may mắn))*
+by **@naval**
+
+ 1. Seek **wealth**, not **money** or **status**. **Wealth** is having **assets** that earn while you sleep. **Money** is how we transfer **time** and **wealth**. **Status** is your place in the **social hierarchy**.
+   *(Hãy tìm kiếm sự **giàu có**, chứ không phải **tiền bạc** hay **địa vị**. **Sự giàu có** là sở hữu những **tài sản** có khả năng sinh lời ngay cả khi bạn đang ngủ. **Tiền bạc** là cách chúng ta chuyển đổi **thời gian** và **sự giàu có**. **Địa vị** là vị trí của bạn trong **hệ thống phân cấp xã hội**).*
+ 2. Understand that **ethical wealth creation** is possible. If you secretly despise **wealth**, it will elude you.
+   *(Hãy hiểu rằng việc **tạo ra sự giàu có một cách đạo đức** là hoàn toàn khả thi. Nếu trong thâm tâm bạn coi thường **sự giàu có**, nó sẽ rời xa bạn).*
+ 3. Ignore people playing **status games**. They gain **status** by attacking people playing **wealth creation games**.
+   *(Hãy lờ đi những người đang chơi các **trò chơi địa vị**. Họ đạt được **địa vị** bằng cách tấn công những người đang chơi các **trò chơi tạo ra sự giàu có**).*
+ 4. You're not going to get rich **renting out your time**. You must own **equity** - a piece of a **business** - to gain your **financial freedom**.
+   *(Bạn sẽ không thể giàu có bằng việc **cho thuê thời gian** của mình. Bạn phải sở hữu **cổ phần** - một phần của một **doanh nghiệp** - để đạt được **tự do tài chính**).*
+ 5. You will get rich by giving **society** what it wants but does not yet know how to get. At **scale**.
+   *(Bạn sẽ trở nên giàu có bằng cách cung cấp cho **xã hội** những thứ họ muốn nhưng chưa biết cách để có được. Và phải thực hiện nó ở **quy mô lớn**).*
+ 6. Pick an **industry** where you can play **long term games** with **long term people**.
+   *(Hãy chọn một **ngành công nghiệp** nơi bạn có thể chơi những **trò chơi dài hạn** với những **con người dài hạn**).*
+ 7. The **Internet** has massively broadened the possible **space of careers**. Most people haven't figured this out yet.
+   *(**Internet** đã mở rộng đáng kể **không gian nghề nghiệp** tiềm năng. Hầu hết mọi người vẫn chưa nhận ra điều này).*
+ 8. Play **iterated games**. All the returns in life, whether in **wealth**, **relationships**, or **knowledge**, come from **compound interest**.
+   *(Hãy chơi các **trò chơi lặp lại**. Mọi thành quả trong cuộc sống, dù là về **sự giàu có**, **mối quan hệ**, hay **kiến thức**, đều đến từ **lãi suất kép**).*
+ 9. Pick **business partners** with high **intelligence**, **energy**, and, above all, **integrity**.
+   *(Hãy chọn những **đối tác kinh doanh** có **trí tuệ** cao, giàu **năng lượng**, và trên hết là có **liêm chính**).*
+ 10. Don't partner with **cynics** and **pessimists**. Their beliefs are **self-fulfilling**.
+   *(Đừng hợp tác với những kẻ **hoài nghi** và **bi quan**. Niềm tin của họ là những **lời tiên tri tự ứng nghiệm**).*
+ 11. Learn to **sell**. Learn to **build**. If you can do both, you will be **unstoppable**.
+   *(Hãy học cách **bán hàng**. Hãy học cách **xây dựng**. Nếu bạn có thể làm cả hai, bạn sẽ là kẻ **không thể ngăn cản**).*
+ 12. Arm yourself with **specific knowledge**, **accountability**, and **leverage**.
+   *(Hãy trang bị cho bản thân **kiến thức chuyên biệt**, **trách nhiệm giải trình**, và **đòn bẩy**).*
 
 ### WEALTH VS MONEY VS STATUS
 
