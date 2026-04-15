@@ -1,4 +1,4 @@
-# Delegation
+# Delegation - Phái đoàn / Uỷ Quyền
 
 **Delegation** là một danh từ vô cùng phổ biến trong môi trường học thuật, chính trị và kinh doanh (đạt chuẩn C1).
 Chúng ta sẽ sử dụng phương pháp Học trong ngữ cảnh và Mẹo ghi nhớ để cùng "mổ xẻ" từ này nhé. Từ **Delegation** có hai lớp nghĩa chính hoàn toàn khác biệt nhau. Chúng ta cùng bắt đầu!
