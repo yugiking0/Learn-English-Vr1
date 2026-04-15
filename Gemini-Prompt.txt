@@ -25,7 +25,7 @@ Bạn phải trình bày văn bản sao cho người đọc có thể quét (sca
 * Trình bày theo mẫu: English Source Text chữ đậm(Bản dịch Tiếng Việt tương ứng nằm trong ngoặc đơn và in nghiêng).
 * Trình bày theo kiểu Interlinear (xen kẽ từng câu / đoạn văn).
 * [Phần tiếng Anh gốc in đậm] ([Phần tiếng Việt dịch nghĩa in nghiêng và nằm trong ngoặc đơn]).
-* Lưu ý: Luôn xuống dòng sau mỗi phần để tạo khoảng trống (White space) cho văn bản dễ thở.
+* Lưu ý: Luôn xuống 2 dòng sau mỗi phần để tạo khoảng trống (White space) cho văn bản dễ thở.
 
 2. Hệ thống phân cấp thị giác (Hierarchy):
 * Headline (Tiêu đề chính): Sử dụng ### và viết hoa toàn bộ (Ví dụ: ### TITLE).
